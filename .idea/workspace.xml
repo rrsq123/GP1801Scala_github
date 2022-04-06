@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aabbe246-1117-4fcf-b8eb-2b2d969121ac" name="Default" comment="" />
+    <list default="true" id="aabbe246-1117-4fcf-b8eb-2b2d969121ac" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GP1801Scala.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +65,7 @@
       <file leaf-file-name="ImplictArgs.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictArgs.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="1025">
               <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
@@ -70,8 +74,8 @@
       <file leaf-file-name="ImplictView.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictView.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="53" column="17" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="53" selection-end-column="17" />
+            <state relative-caret-position="1325">
+              <caret line="53" column="17" selection-start-line="47" selection-start-column="4" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,17 +83,35 @@
       <file leaf-file-name="ImplictDemo02.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictDemo02.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
+            <state relative-caret-position="2550">
               <caret line="102" column="52" selection-start-line="102" selection-start-column="52" selection-end-line="102" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="People.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="People.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/day04/People.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-273">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/day01/Test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -112,6 +134,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,17 +232,21 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="475" />
     <option name="y" value="4" />
     <option name="width" value="1598" />
     <option name="height" value="805" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,15 +278,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1801Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1801Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +300,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -287,18 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CurryingDemo">
-    <configuration name="ActorCaseDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="day05.ActorCaseDemo" />
-      <module name="GP1801Scala" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CurryingDemo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="day04.CurryingDemo" />
       <module name="GP1801Scala" />
@@ -328,6 +351,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="day01.Test" />
+      <module name="GP1801Scala" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,19 +419,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ActorCaseDemo" />
       <item itemvalue="Application.MultiActorWordCount" />
       <item itemvalue="Application.Master" />
       <item itemvalue="Application.Work" />
       <item itemvalue="Application.CurryingDemo" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.CurryingDemo" />
         <item itemvalue="Application.Work" />
         <item itemvalue="Application.Master" />
         <item itemvalue="Application.MultiActorWordCount" />
-        <item itemvalue="Application.ActorCaseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -423,30 +457,32 @@
       <workItem from="1541984071995" duration="19976000" />
       <workItem from="1551099177637" duration="9622000" />
       <workItem from="1551147817771" duration="6426000" />
+      <workItem from="1649257373436" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130206000" />
+    <option name="totallyTimeSpent" value="131158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.4492255" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.21465296" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22147651" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -460,7 +496,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.12975392" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,13 +515,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/day03/EnumDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Array.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/day03/AppDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -644,20 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/day05/akkaDemo/Master.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="49" column="49" selection-start-line="34" selection-start-column="2" selection-end-line="49" selection-end-column="49" />
-          <folding>
-            <element signature="e#24#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1175">
           <caret line="48" column="72" selection-start-line="48" selection-start-column="72" selection-end-line="48" selection-end-column="72" />
-          <folding>
-            <element signature="e#24#85#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,29 +730,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictArgs.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="1025">
           <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictView.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="53" column="17" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="53" selection-end-column="17" />
+        <state relative-caret-position="1325">
+          <caret line="53" column="17" selection-start-line="47" selection-start-column="4" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/day04/ImplictDemo02.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
+        <state relative-caret-position="2550">
           <caret line="102" column="52" selection-start-line="102" selection-start-column="52" selection-end-line="102" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/day04/People.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day01/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -758,7 +787,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -799,6 +828,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
